@@ -1,0 +1,25 @@
+{
+    "consts": {
+        "camera": [
+            "iPhone 12 mini",
+            "Canon EOS R10/RF-S 18-45mm",
+            "Canon EOS R10/RF-S 18-150mm",
+            "iPhone 14",
+            "iPhone 11"
+        ],
+        "photographer": [
+            "Eder",
+            "Amber"
+        ]
+    },
+    "shots": [
+        {
+            "url": "https://cdn.jsdelivr.net/gh/ederzz/EASHOTS/shots/sunset-over-subway-station.JPG",
+            "title": "Subway Over Station Sunset",
+            "pger": 0,
+            "camera": 0,
+            "time": "2025/01",
+            "addr": "NanJing, China"
+        }
+    ]
+}

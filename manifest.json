@@ -5,7 +5,8 @@
             "Canon EOS R10/RF-S 18-45mm",
             "Canon EOS R10/RF-S 18-150mm",
             "iPhone 14",
-            "iPhone 11"
+            "iPhone 11",
+            "Xiaomi 6"
         ],
         "photographer": [
             "Eder",
@@ -17,9 +18,275 @@
             "url": "https://cdn.jsdelivr.net/gh/ederzz/EASHOTS/shots/sunset-over-subway-station.JPG",
             "title": "Subway Over Station Sunset",
             "pger": 0,
+            "camera": 2,
+            "time": "2025/01",
+            "addr": "NanJing, China"
+        },
+        {
+            "url": "https://cdn.jsdelivr.net/gh/ederzz/EASHOTS/shots/red-wall.JPG",
+            "title": "Red Wall",
+            "pger": 0,  
+            "camera": 2,
+            "time": "2025/01",
+            "addr": "NanJing, China"
+        },
+        {
+            "url": "https://cdn.jsdelivr.net/gh/ederzz/EASHOTS/shots/carved-dragon-wall.JPG",
+            "title": "Carved Dragon Stone Wall",
+            "pger": 0,  
+            "camera": 2,
+            "time": "2025/01",
+            "addr": "NanJing, China"
+        },
+        {
+            "url": "https://cdn.jsdelivr.net/gh/ederzz/EASHOTS/shots/presidential-palace-archway.JPG",
+            "title": "Presidential Palace's Archway",
+            "pger": 0,  
+            "camera": 2,
+            "time": "2025/01",
+            "addr": "NanJing, China"
+        },
+        {
+            "url": "https://cdn.jsdelivr.net/gh/ederzz/EASHOTS/shots/yellow-wintersweet.JPG",
+            "title": "Yellow Wintersweet",
+            "pger": 0,  
+            "camera": 2,
+            "time": "2025/01",
+            "addr": "NanJing, China"
+        },
+        {
+            "url": "https://cdn.jsdelivr.net/gh/ederzz/EASHOTS/shots/light-and-shadow.JPG",
+            "title": "Light and Shadow",
+            "pger": 0,  
+            "camera": 2,
+            "time": "2025/01",
+            "addr": "NanJing, China"
+        },
+        {
+            "url": "https://cdn.jsdelivr.net/gh/ederzz/EASHOTS/shots/sky-over-mingxiaoling.JPG",
+            "title": "Sky Over MingXiaoLing",
+            "pger": 0,  
+            "camera": 2,
+            "time": "2025/01",
+            "addr": "NanJing, China"
+        },
+        {
+            "url": "https://cdn.jsdelivr.net/gh/ederzz/EASHOTS/shots/mingxiaoling-archway.JPG",
+            "title": "Past and Future",
+            "pger": 0,  
+            "camera": 2,
+            "time": "2025/01",
+            "addr": "NanJing, China"
+        },
+        {
+            "url": "https://cdn.jsdelivr.net/gh/ederzz/EASHOTS/shots/mingtaizu-tomb.JPG",
+            "title": "This Mountain, the Tomb of Ming Taizu",
+            "pger": 0,  
+            "camera": 2,
+            "time": "2025/01",
+            "addr": "NanJing, China"
+        },
+        {
+            "url": "https://cdn.jsdelivr.net/gh/ederzz/EASHOTS/shots/xuanwu-lake-sunrise.JPG",
+            "title": "Sunrise at Xuanwu Lake",
+            "pger": 0,  
             "camera": 0,
             "time": "2025/01",
             "addr": "NanJing, China"
+        },
+        {
+            "url": "https://cdn.jsdelivr.net/gh/ederzz/EASHOTS/shots/sky-roof.JPG",
+            "title": "Sky And Roof",
+            "pger": 0,  
+            "camera": 2,
+            "time": "2025/01",
+            "addr": "NanJing, China"
+        }
+        ,
+        {
+            "url": "https://cdn.jsdelivr.net/gh/ederzz/EASHOTS/shots/sky-roof-2.JPG",
+            "title": "Sky And Roof #2",
+            "pger": 0,  
+            "camera": 2,
+            "time": "2025/01",
+            "addr": "NanJing, China"
+        },
+        {
+            "url": "https://cdn.jsdelivr.net/gh/ederzz/EASHOTS/shots/sky-roof-3.JPG",
+            "title": "Sky And Roof #3",
+            "pger": 0,  
+            "camera": 2,
+            "time": "2025/01",
+            "addr": "NanJing, China"
+        },
+        {
+            "url": "https://cdn.jsdelivr.net/gh/ederzz/EASHOTS/shots/jiangnan-architecture.JPG",
+            "title": "Jiangnan Architecture",
+            "pger": 0,  
+            "camera": 2,
+            "time": "2025/01",
+            "addr": "NanJing, China"
+        },
+        {
+            "url": "https://cdn.jsdelivr.net/gh/ederzz/EASHOTS/shots/ming-city-wall.JPG",
+            "title": "Ming Dynasty City Wall",
+            "pger": 0,  
+            "camera": 2,
+            "time": "2025/01",
+            "addr": "NanJing, China"
+        },
+        {
+            "url": "https://cdn.jsdelivr.net/gh/ederzz/EASHOTS/shots/ming-city-wall-2.JPG",
+            "title": "Ming Dynasty City Wall #2",
+            "pger": 0,  
+            "camera": 2,
+            "time": "2025/01",
+            "addr": "NanJing, China"
+        },
+        {
+            "url": "https://cdn.jsdelivr.net/gh/ederzz/EASHOTS/shots/traffic-flow.JPG",
+            "title": "Traffic Flow",
+            "pger": 2,  
+            "camera": 1,
+            "time": "2024/06",
+            "addr": "Mianyang, China"
+        },
+        {
+            "url": "https://cdn.jsdelivr.net/gh/ederzz/EASHOTS/shots/streetlights-lanterns.JPG",
+            "title": "Streetlights and Lanterns",
+            "pger": 2,  
+            "camera": 1,
+            "time": "2024/06",
+            "addr": "Mianyang, China"
+        },
+        {
+            "url": "https://cdn.jsdelivr.net/gh/ederzz/EASHOTS/shots/ice-jelly-cart.JPG",
+            "title": "Ice Jelly Cart",
+            "pger": 2,  
+            "camera": 1,
+            "time": "2024/06",
+            "addr": "Mianyang, China"
+        },
+        {
+            "url": "https://cdn.jsdelivr.net/gh/ederzz/EASHOTS/shots/mianyang-specialty.JPG",
+            "title": "Mianyang Specialty",
+            "pger": 2,  
+            "camera": 1,
+            "time": "2024/06",
+            "addr": "Mianyang, China"
+        },
+        {
+            "url": "https://cdn.jsdelivr.net/gh/ederzz/EASHOTS/shots/alleyways-skyscrapers.JPG",
+            "title": "Alleyways and Skyscrapers",
+            "pger": 2,  
+            "camera": 1,
+            "time": "2024/06",
+            "addr": "Mianyang, China"
+        }
+        ,
+        {
+            "url": "https://cdn.jsdelivr.net/gh/ederzz/EASHOTS/shots/children-square.JPG",
+            "title": "Children in the Square",
+            "pger": 2,  
+            "camera": 1,
+            "time": "2024/06",
+            "addr": "Mianyang, China"
+        },
+        {
+            "url": "https://cdn.jsdelivr.net/gh/ederzz/EASHOTS/shots/weeds-fire-hydrant.JPG",
+            "title": "Weeds and Fire Hydrant",
+            "pger": 2,  
+            "camera": 1,
+            "time": "2024/06",
+            "addr": "Chengdu, China"
+        },
+        {
+            "url": "https://cdn.jsdelivr.net/gh/ederzz/EASHOTS/shots/yin-yang-fish.JPG",
+            "title": "Yin-Yang Fish",
+            "pger": 2,  
+            "camera": 1,
+            "time": "2024/06",
+            "addr": "Chengdu, China"
+        },
+        {
+            "url": "https://cdn.jsdelivr.net/gh/ederzz/EASHOTS/shots/funny-words.JPG",
+            "title": "Funny Words",
+            "pger": 2,  
+            "camera": 1,
+            "time": "2024/06",
+            "addr": "Chengdu, China"
+        },
+        {
+            "url": "https://cdn.jsdelivr.net/gh/ederzz/EASHOTS/shots/home-of-happiness.JPG",
+            "title": "Home of Happiness",
+            "pger": 2,  
+            "camera": 1,
+            "time": "2024/06",
+            "addr": "Chengdu, China"
+        },
+        {
+            "url": "https://cdn.jsdelivr.net/gh/ederzz/EASHOTS/shots/grass-shadows-in-water.JPG",
+            "title": "Shadows of Grass in the Water",
+            "pger": 2,  
+            "camera": 1,
+            "time": "2024/06",
+            "addr": "Chengdu, China"
+        },
+        {
+            "url": "https://cdn.jsdelivr.net/gh/ederzz/EASHOTS/shots/dove-of-peace.JPG",
+            "title": "Dove of Peace",
+            "pger": 2,  
+            "camera": 1,
+            "time": "2024/06",
+            "addr": "Chengdu, China"
+        },
+        {
+            "url": "https://cdn.jsdelivr.net/gh/ederzz/EASHOTS/shots/cute-puppy.JPG",
+            "title": "Cute Puppy",
+            "pger": 2,  
+            "camera": 1,
+            "time": "2024/06",
+            "addr": "Chengdu, China"
+        },
+        {
+            "url": "https://cdn.jsdelivr.net/gh/ederzz/EASHOTS/shots/wishing-red-string.JPG",
+            "title": "Wishing Red String",
+            "pger": 2,  
+            "camera": 1,
+            "time": "2024/06",
+            "addr": "Chengdu, China"
+        },
+        {
+            "url": "https://cdn.jsdelivr.net/gh/ederzz/EASHOTS/shots/spell-light.JPG",
+            "title": "Spell Under the Light",
+            "pger": 2,  
+            "camera": 1,
+            "time": "2024/06",
+            "addr": "Chengdu, China"
+        },
+        {
+            "url": "https://cdn.jsdelivr.net/gh/ederzz/EASHOTS/shots/5am-sunset.JPG",
+            "title": "Sunset in My Hometown at 5 AM",
+            "pger": 2,  
+            "camera": 0,
+            "time": "2024/05",
+            "addr": "Suining, China"
+        },
+        {
+            "url": "https://cdn.jsdelivr.net/gh/ederzz/EASHOTS/shots/city-view-plane.JPG",
+            "title": "City View From The Plane",
+            "pger": 2,  
+            "camera": 0,
+            "time": "2021/09",
+            "addr": "Hangzhou, China"
+        },
+        {
+            "url": "https://cdn.jsdelivr.net/gh/ederzz/EASHOTS/shots/sunset-university.JPG",
+            "title": "Sunset Over the University",
+            "pger": 2,  
+            "camera": 5,
+            "time": "2017/09",
+            "addr": "Taiyuan, China"
         }
     ]
 }
